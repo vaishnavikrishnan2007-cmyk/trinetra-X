@@ -1,0 +1,6 @@
+{
+  "name": "TRINETRA-X",
+  "description": "Evidence-First Border Document Screening Console for SSB / MHA",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
